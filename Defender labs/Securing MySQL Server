@@ -19,3 +19,4 @@ The task that we need to perform to secure the MySQL server:
 6-Disable remote login of the sensitive users i.e. root, admin, etc
 7-Default Port Mappings
 
+
