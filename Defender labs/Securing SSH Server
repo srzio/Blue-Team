@@ -1,5 +1,7 @@
-🛡 ``Securing SSH Server``
-
+---
+layout: default
+title : Securing SSH Server
+---
 Lab Objectives : Perform and secure the OpenSSH service
 
 -Hide SSH service version details
