@@ -1,5 +1,8 @@
-## -Securing the SSH Server 
-Lab Objectives : Perform and secure the OpenSSH service
+## 🔒 Securing the SSH Server 
+
+Let's Perform and secure the OpenSSH service 
+
+# Objectives : 
 
 -Hide SSH service version details
 -Run Brute Force attack on the root user and then take measures to prevent it
